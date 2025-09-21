@@ -1,12 +1,28 @@
-# React + Vite
+# ApniDukaan - A Modern E-commerce Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![ApniDukaan Preview](src/assets/dukaan.png)
 
-Currently, two official plugins are available:
+Welcome to **ApniDukaan**!  
+This is a fully functional, single-file e-commerce application built with modern web technologies. It provides a clean, fast, and highly interactive shopping experience — perfect for a personal project or as a template for a larger application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- **Dynamic Product Catalog** – Displays a grid of products fetched from a local data source.  
+- **Category Filtering** – Smooth filtering by category (`All, Tech, Men, Women, Kids, Gifts`) with fluid animations.  
+- **Interactive Product Cards** – Subtle hover effects for engaging user interactions.  
+- **Slide-In Shopping Cart** – A sleek, animated sidebar cart to view, update, and remove items without leaving the page.  
+- **State Management with React Hooks** – Efficient cart state handling with `useState`.  
+- **Toast Notifications** – Non-intrusive alerts for adding/removing items.  
+- **Fully Responsive** – Optimized for mobile, tablet, and desktop.  
+- **Built-in SVG Icons** – Fast and dependency-free icons included as React components.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+- **React** – Component-based UI  
+- **Tailwind CSS** – Utility-first styling  
+- **Framer Motion** – Smooth animations  
+
+---
+
